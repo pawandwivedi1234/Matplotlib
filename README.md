@@ -38,6 +38,7 @@ Clone this repository.
 Launch Jupyter Notebook:
 
 jupyter notebook
+Author name : Pawan Dwivedi
 
 
 Open Matplotlib.ipynb and run the cells sequentially.
